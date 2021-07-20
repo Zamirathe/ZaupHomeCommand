@@ -1,4 +1,4 @@
 # Zamirathe_HomeCommand
-Home Command Rocket Plugin for Unturned 3.0
+Home Command Rocket Plugin for Unturned 3+
 
 Added functionality to Rocket's home command.  Adds movement and wait time restrictions.
